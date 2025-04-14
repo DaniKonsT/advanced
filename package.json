@@ -1,0 +1,26 @@
+{
+  "name": "advanced",
+  "version": "1.0.0",
+  "description": "**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniKonsT/advanced.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DaniKonsT/advanced/issues"
+  },
+  "homepage": "https://github.com/DaniKonsT/advanced#readme",
+  "devDependencies": {
+    "eslint": "^9.24.0",
+    "eslint-plugin-import": "^2.31.0",
+    "jest": "^29.7.0"
+  }
+}
